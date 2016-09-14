@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8A0CA8BA-E64B-FEC7-771B-FE81C283F6F0}") = "music select", "Assembly-CSharp.csproj", "{526C7548-773B-765B-14E2-5C952D736330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{526C7548-773B-765B-14E2-5C952D736330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526C7548-773B-765B-14E2-5C952D736330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526C7548-773B-765B-14E2-5C952D736330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526C7548-773B-765B-14E2-5C952D736330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
