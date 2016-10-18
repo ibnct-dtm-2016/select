@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5d2540a5a2f01b344a08ea31a0b9d17f
+timeCreated: 1474716530
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - music_obj: {fileID: 177088, guid: a2446539922d9de4687a71c64a37c3e8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
