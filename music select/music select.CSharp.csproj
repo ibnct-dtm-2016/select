@@ -63,12 +63,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ProjectReference Include="music select.CSharp.Plugins.csproj">
       <Project>{EB154AA7-8E97-1127-9683-E4F6CB89CEE4}</Project>
       <Name>music select.CSharp.Plugins</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+=======
+>>>>>>> refs/remotes/origin/master
     <Compile Include="Assets\scripts\option\moveSetting.cs" />
     <Compile Include="Assets\scripts\select\AddScript.cs" />
     <Compile Include="Assets\scripts\select\main.cs" />

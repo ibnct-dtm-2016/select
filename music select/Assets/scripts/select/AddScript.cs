@@ -12,7 +12,11 @@ public class AddScript : MonoBehaviour {
     //プレハブの位置
     private  Vector3 pos;
     //初期配置プレハブのx座標
+<<<<<<< HEAD
     private const float x_position = -6.73f;
+=======
+    private const float x_position = -0.61f;
+>>>>>>> refs/remotes/origin/master
     
     private float right;
 
