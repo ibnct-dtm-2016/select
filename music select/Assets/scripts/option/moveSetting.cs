@@ -5,6 +5,7 @@ public class moveSetting : MonoBehaviour {
 
     private Vector3 pos;
 
+<<<<<<< HEAD
     private int difficulty = 2;
 
     private int speed = 4;
@@ -83,5 +84,19 @@ public class moveSetting : MonoBehaviour {
         }
         transform.position = pos;
 
+=======
+	// Use this for initialization
+	void Start () {
+        pos = transform.position;
+    }
+	
+	// Update is called once per frame
+	void Update () {
+
+        if (Input.GetKeyDown(KeyCode.Return)) {
+            
+        } 
+	
+>>>>>>> refs/remotes/origin/master
 	}
 }
