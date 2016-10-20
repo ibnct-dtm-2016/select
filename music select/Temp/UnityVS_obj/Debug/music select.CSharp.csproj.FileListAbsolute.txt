@@ -1,0 +1,13 @@
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_obj\Debug\music select.CSharp.csprojResolveAssemblyReference.cache
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Programming\home\sound_game\select\music select\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
